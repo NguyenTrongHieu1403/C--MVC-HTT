@@ -1,0 +1,2565 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\H2TSHOP2024.bundle.scp.css",
+      "PackagePath": "staticwebassets\\H2TSHOP2024.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\demo.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\kaiadmin.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\kaiadmin.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\kaiadmin.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\kaiadmin.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\kaiadmin.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\kaiadmin.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\plugins.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\plugins.css.map",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\plugins.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\fonts\\summernote\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\summernote\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\H2T\\h2t.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\H2T\\h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\H2T\\h2tr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\H2T\\h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\arashmil.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\bg-404.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\bg-404.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\blogpost.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\blogpost.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\chadengle.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\chadengle.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example1-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example1-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example1.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example1.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example10-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example10-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example10.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example10.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example11-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example11-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example11.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example11.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example12-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example12-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example12.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example12.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example2-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example2-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example2.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example2.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example3-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example3-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example3.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example3.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example4-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example4-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example4.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example4.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example5-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example5-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example5.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example5.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example6-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example6-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example6.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example6.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example7-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example7-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example7.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example7.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example8-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example8-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example8.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example8.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example9-300x300.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example9-300x300.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\example9.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\example9.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\logo.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\logo.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\logo1.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\logo1.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\logo2.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\logo2.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\logoinvoice.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\logoinvoice.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product10.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product10.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product11.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product11.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product12.jpeg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product12.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product3.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product4.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product5.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product6.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product6.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product7.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\examples\\product8.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\examples\\product8.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ad.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ae.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\af.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\af.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ag.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ai.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\al.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\al.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\am.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\am.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\an.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\an.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ao.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ar.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\as.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\as.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\at.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\at.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\au.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\au.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\aw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ax.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\az.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\az.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ba.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bb.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bd.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\be.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\be.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bi.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bj.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bo.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bs.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\by.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\by.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\bz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ca.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\catalonia.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\catalonia.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cd.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ch.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ci.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ck.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\co.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\co.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cs.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cx.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cy.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\cz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\dj.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\dk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\dm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\do.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\do.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\dz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ec.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ee.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\eg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\eh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\england.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\england.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\er.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\er.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\et.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\et.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\europeanunion.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\europeanunion.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fam.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fi.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fj.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fo.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\fr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ga.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gb.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gd.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ge.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gi.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gp.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gq.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gs.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\gy.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\hk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\hm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\hm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\hn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\hr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ht.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\hu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\id.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\id.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ie.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\il.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\il.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\in.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\in.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\io.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\io.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\iq.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ir.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\is.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\is.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\it.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\it.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\jm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\jo.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\jp.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ke.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ki.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\km.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\km.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kp.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ky.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\kz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\la.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\la.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lb.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\li.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\li.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ls.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\lv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ly.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ma.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\md.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\md.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\me.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\me.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ml.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mo.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mp.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mq.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ms.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mx.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\my.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\my.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\mz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\na.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\na.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ne.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ng.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ni.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\no.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\no.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\np.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\np.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\nz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\om.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\om.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pa.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pe.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ph.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ps.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\pw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\py.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\py.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\qa.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\re.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\re.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\readme.txt",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\readme.txt"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ro.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\rs.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\rs.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ru.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\rw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sa.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sb.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\scotland.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sd.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\se.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\se.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sh.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\si.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\si.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sj.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sj.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\so.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\so.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\st.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\st.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sy.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\sz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\td.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\td.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\th.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\th.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tj.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tk.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tl.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\to.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\to.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tv.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\tz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ua.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ug.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\um.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\um.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\uy.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\uz.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\va.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\va.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\vc.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ve.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\vg.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\vi.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\vn.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\vu.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\wales.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\wf.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ws.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\ye.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\yt.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\za.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\za.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\zm.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\flags\\zw.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\img-shadow.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\img-shadow.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\jm_denis.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\jm_denis.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo1.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo1.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo2.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo2.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo3.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo3.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo4.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo4.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo5.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo5.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo6.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo6.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo7.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo7.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo8.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo8.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\demo9.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\demo9.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\favicon.ico",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\favicon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\favicon.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\favicon.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\icon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\icon.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\icon.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\icon.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\logo_dark.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\logo_dark.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\logo_dark.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\logo_dark.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\logo_documentation.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\logo_documentation.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\logo_light.png",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\logo_light.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\kaiadmin\\logo_light.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\kaiadmin\\logo_light.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\logoproduct.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\logoproduct.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\logoproduct2.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\logoproduct2.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\logoproduct3.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\logoproduct3.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\mlane.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\mlane.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\sauro.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\sauro.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\talha.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\talha.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\undraw\\undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\undraw\\undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\img\\visa.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\img\\visa.svg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\core\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\core\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\kaiadmin.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\kaiadmin.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\kaiadmin.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\kaiadmin.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jquery.validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jsvectormap\\jsvectormap.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\jsvectormap\\world.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\jsvectormap\\world.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\list.js\\list.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\list.js\\list.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\owl-carousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\owl-carousel\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\sortable\\sortable.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\sortable\\sortable.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\plugin\\webfont\\webfont.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\plugin\\webfont\\webfont.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\setting-demo.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\setting-demo.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Adminassets\\js\\setting-demo2.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Assets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\cat-6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\cat-6.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\offer-1.png",
+      "PackagePath": "staticwebassets\\Assets\\img\\offer-1.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\offer-2.png",
+      "PackagePath": "staticwebassets\\Assets\\img\\offer-2.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\payments.png",
+      "PackagePath": "staticwebassets\\Assets\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\Assets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\Assets\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\Assets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\Assets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\0813ba86-66ff-4857-a79a-2d5840abe3b9_image_a05d770afb0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Books\\0813ba86-66ff-4857-a79a-2d5840abe3b9_image_a05d770afb0.jpeg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\0b6025d6-8768-4e75-995b-34458120781b_laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\0b6025d6-8768-4e75-995b-34458120781b_laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\0de57c91-1456-4617-b8a7-cb86acda62d0_tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\0de57c91-1456-4617-b8a7-cb86acda62d0_tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-6.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\0e72503a-31e8-4487-b5bc-5f68684ef447_laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\0e72503a-31e8-4487-b5bc-5f68684ef447_laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\1165664d-7d2d-4b68-87c2-40af552f7275_h2tr.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\1165664d-7d2d-4b68-87c2-40af552f7275_h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\11d3b3f0-3e11-41cc-a8df-8c2615474e22_tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\11d3b3f0-3e11-41cc-a8df-8c2615474e22_tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-7.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\1f4098fe-dc48-47ef-860b-7d33787d05e3_h2tr.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\1f4098fe-dc48-47ef-860b-7d33787d05e3_h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\1fa2ab6e-7a4b-49ca-b4dd-382513f8b1b1_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\1fa2ab6e-7a4b-49ca-b4dd-382513f8b1b1_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\2d5b2afc-bdfb-4b71-827b-2e0b3a19090c_5-tren-giay-729x1024.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\2d5b2afc-bdfb-4b71-827b-2e0b3a19090c_5-tren-giay-729x1024.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\3406d090-b93e-4cc5-8452-8d52a3bf2ec8_h2tr.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\3406d090-b93e-4cc5-8452-8d52a3bf2ec8_h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\3849be27-e1d5-4914-978d-8f83795499ab_laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\3849be27-e1d5-4914-978d-8f83795499ab_laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\426af73c-a4f6-4e15-81b7-bf853bc58d79_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\426af73c-a4f6-4e15-81b7-bf853bc58d79_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\5003b05a-a149-4cb0-bf5f-d6b433e05754_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\5003b05a-a149-4cb0-bf5f-d6b433e05754_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\6ab28c66-1d66-41b6-8866-af9d3f3b53c7_quyen-sach-co-bia-dep-khong-gia-dinh.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\6ab28c66-1d66-41b6-8866-af9d3f3b53c7_quyen-sach-co-bia-dep-khong-gia-dinh.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\71bb4396-d319-45cf-b32c-4c920bcb7b79_Ảnh1.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\71bb4396-d319-45cf-b32c-4c920bcb7b79_Ảnh1.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\74cc1ad9-a0fe-4e69-8631-5e2b99594dd5_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\74cc1ad9-a0fe-4e69-8631-5e2b99594dd5_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\79491c9b-230b-41c2-8545-dfe3d425603d_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\79491c9b-230b-41c2-8545-dfe3d425603d_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\7fdd7c8c-81b2-4e35-b455-96b9cb6892b6_magnus-carlsen-net-worth.webp",
+      "PackagePath": "staticwebassets\\Images\\Books\\7fdd7c8c-81b2-4e35-b455-96b9cb6892b6_magnus-carlsen-net-worth.webp"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\95141288-21e7-447d-9f45-247ee3ac72e3_Ảnh2.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\95141288-21e7-447d-9f45-247ee3ac72e3_Ảnh2.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\aa9ccb73-4fbd-44e1-98eb-94fdb0ab999b_h2tr.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\aa9ccb73-4fbd-44e1-98eb-94fdb0ab999b_h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\b6287fa7-76da-4285-95c6-041dccfacefe_laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\b6287fa7-76da-4285-95c6-041dccfacefe_laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\c875bdc4-0f80-4e32-bd76-c6db1092f4d3_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\c875bdc4-0f80-4e32-bd76-c6db1092f4d3_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\c90634d5-cf35-4421-a7c8-9c581c8d6885_laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\c90634d5-cf35-4421-a7c8-9c581c8d6885_laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\cdecab9b-647b-4b4c-94a2-b46891b8156e_bia-sach-dep-ngoi-nha-nghin-hanh-lang.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\cdecab9b-647b-4b4c-94a2-b46891b8156e_bia-sach-dep-ngoi-nha-nghin-hanh-lang.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\d2a4134d-4e58-411a-aac9-6ef716de97ba_bia-sach-dep-ngoi-nha-nghin-hanh-lang.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\d2a4134d-4e58-411a-aac9-6ef716de97ba_bia-sach-dep-ngoi-nha-nghin-hanh-lang.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\d6060bec-5b2f-4f1b-9272-6741f2a5a5e2__24116732-eec9-4c16-af03-f8b719921eff.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\d6060bec-5b2f-4f1b-9272-6741f2a5a5e2__24116732-eec9-4c16-af03-f8b719921eff.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\d8974e1a-7bcf-4091-91f6-217ae089b203_T.txt",
+      "PackagePath": "staticwebassets\\Images\\Books\\d8974e1a-7bcf-4091-91f6-217ae089b203_T.txt"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\e022ed20-52f7-4eb5-b83e-d7fe4711b72a_15042024104003_2.png",
+      "PackagePath": "staticwebassets\\Images\\Books\\e022ed20-52f7-4eb5-b83e-d7fe4711b72a_15042024104003_2.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Books\\fede9957-a092-4ba8-8927-138c7bc21550_bfeb4898fd66d22e9741cb9830032a4f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Books\\fede9957-a092-4ba8-8927-138c7bc21550_bfeb4898fd66d22e9741cb9830032a4f.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\Nxbs\\985f7aa2-5770-4988-b653-267db4d7acef_h2t.jpg",
+      "PackagePath": "staticwebassets\\Images\\Nxbs\\985f7aa2-5770-4988-b653-267db4d7acef_h2t.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\h2tr.png",
+      "PackagePath": "staticwebassets\\Images\\h2tr.png"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\Images\\laptop-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web API\\H2TSHOP2024\\H2TSHOP2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.H2TSHOP2024.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.H2TSHOP2024.props",
+      "PackagePath": "build\\H2TSHOP2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.H2TSHOP2024.props",
+      "PackagePath": "buildMultiTargeting\\H2TSHOP2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.H2TSHOP2024.props",
+      "PackagePath": "buildTransitive\\H2TSHOP2024.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

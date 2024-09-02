@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        color: #333;
+    }
+
+    .header {
+        background: #f4f4f4;
+        padding: 20px;
+        text-align: center;
+    }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #333;
+        }
+
+        .header p {
+            margin: 0;
+            font-size: 1.2rem;
+            color: #666;
+        }
+
+    .container {
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    .about-us h2 {
+        color: #333;
+        margin-bottom: 15px;
+    }
+
+    .branches {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+
+    .branch {
+        width: 45%;
+        background: #f9f9f9;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+        .branch h3 {
+            margin-top: 0;
+        }
+
+    .footer {
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+
+</style>
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Thông tin về chúng tôi</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a asp-action="Index" asp-controller="Home">Trang chủ</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Về chúng tôi</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+<!-- Phần tiêu đề -->
+<header class="header">
+    <p>H2T BookStore - Khơi nguồn tri thức</p>
+</header>
+
+<!-- Phần nội dung chính -->
+<section class="about-us container">
+    <h2>Giới thiệu về H2T BookStore</h2>
+    <p>H2T BookStore được thành lập với sứ mệnh mang đến cho khách hàng những đầu sách chất lượng cao, phục vụ nhu cầu học tập, nghiên cứu và giải trí. Chúng tôi tự hào là một trong những nhà sách uy tín với hệ thống cửa hàng trải dài trên khắp cả nước.</p>
+
+    <h2>Tầm nhìn và Sứ mệnh</h2>
+    <p>Tầm nhìn của chúng tôi là trở thành nhà cung cấp sách hàng đầu tại Việt Nam, nơi mọi người đều có thể tiếp cận với những nguồn tri thức vô tận. Sứ mệnh của chúng tôi là cung cấp dịch vụ tốt nhất, sản phẩm chất lượng nhất, và tạo nên một cộng đồng yêu sách gắn kết.</p>
+
+    <h2>Chi nhánh của chúng tôi</h2>
+    <div class="branches">
+        <div class="branch">
+            <h3>Chi nhánh TP.HCM 1</h3>
+            <p><i class="fas fa-map-marker-alt text-primary mr-3"></i>Quận 7, TP.HCM, Vietnam</p>
+            <p><i class="fas fa-envelope text-primary mr-3"></i>h2tbookstore_hcm1@gmail.com</p>
+            <p><i class="fas fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+        </div>
+        <div class="branch">
+            <h3>Chi nhánh TP.HCM 2</h3>
+            <p><i class="fas fa-map-marker-alt text-primary mr-3"></i>Huyện Bình Chánh, TP.HCM, Vietnam</p>
+            <p><i class="fas fa-envelope text-primary mr-3"></i>h2tbookstore_hcm2@gmail.com</p>
+            <p><i class="fas fa-phone-alt text-primary mr-3"></i>+098 765 43210</p>
+        </div>
+    </div>
+</section>

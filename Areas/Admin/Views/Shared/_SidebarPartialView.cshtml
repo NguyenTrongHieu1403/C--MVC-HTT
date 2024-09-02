@@ -1,0 +1,119 @@
+﻿<div class="sidebar" data-background-color="dark">
+    <div class="sidebar-logo">
+        <!-- Logo Header -->
+        <div class="logo-header d-flex justify-content-between align-items-center" data-background-color="dark">
+            <div class="logo-container mx-auto">
+                <a asp-action="Index" asp-area="Admin" asp-controller="Home" class="logo navbar-brand">
+                    <img src="~/adminassets/img/H2T/h2tr.png" alt="navbar brand" height="30" />
+                </a>
+            </div>
+
+            <div class="nav-toggle d-flex align-items-center">
+                <button class="btn btn-toggle toggle-sidebar">
+                    <i class="gg-menu-right"></i>
+                </button>
+                <button class="btn btn-toggle sidenav-toggler">
+                    <i class="gg-menu-left"></i>
+                </button>
+            </div>
+            <button class="topbar-toggler more">
+                <i class="gg-more-vertical-alt"></i>
+            </button>
+        </div>
+        <!-- End Logo Header -->
+
+    </div>
+    <div class="sidebar-wrapper scrollbar scrollbar-inner">
+        <div class="sidebar-content">
+            <ul class="nav nav-secondary">
+                <li class="nav-item active">
+                    <a asp-area="Admin" asp-controller="Home" asp-action="Index">
+                        <i class="fas fa-home"></i>
+                        <p>Tổng Quan</p>
+                    </a>
+                </li>
+                <li class="nav-section">
+                    <span class="sidebar-mini-icon">
+                        <i class="fa fa-ellipsis-h"></i>
+                    </span>
+                    <h4 class="text-section">Components</h4>
+                </li>
+                <li class="nav-item">
+                    <a asp-action="Index" asp-area="Admin" asp-controller="Orders">
+                        <i class="fas fa-layer-group"></i>
+                        <p>Quản lý Đơn hàng</p>
+                    </a>
+    
+                </li>
+                <li class="nav-item">
+                    <a asp-action="Index" asp-area="Admin" asp-controller="AdminBooks">
+                        <i class="fas fa-th-list"></i>
+                        <p>Quản lý Sản phẩm</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-action="Index" asp-area="Admin" asp-controller="AdminCustomers">
+                        <i class="fas fa-table"></i>
+                        <p>Quản lý Khách hàng</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a data-bs-toggle="collapse" href="#tables">
+                        <i class="fas fa-table"></i>
+                        <p>Doanh số</p>
+                    </a>
+                    <div class="collapse" id="tables">
+                        <ul class="nav nav-collapse">
+                            <li>
+                                <a href="tables/tables.html">
+                                    <span class="sub-item">Basic Table</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="tables/datatables.html">
+                                    <span class="sub-item">Datatables</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a data-bs-toggle="collapse" href="#maps">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <p>Quản lý hệ thống</p>
+                        <span class="caret"></span>
+                    </a>
+                    <div class="collapse" id="maps">
+                        <ul class="nav nav-collapse">
+                            <li>
+                                <a asp-action="Index" asp-area="Admin" asp-controller="AdminGenres">
+                                    <span class="sub-item">Quản lý Thể loại<span>
+                                </a>
+                            </li>
+                            <li>
+                                <a asp-action="Index" asp-area="Admin" asp-controller="AdminNxbs">
+                                    <span class="sub-item">Quản lý Nhà Sản Xuất<span>
+                                </a>
+                            </li>
+                            <li>
+                                <a asp-area="Admin" asp-controller="AdminAccounts" asp-action="Index">
+                                    <span class="sub-item">Quản lý Tài khoản</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Index" >
+                                    <span class="sub-item">Quản lý Quyền truy cập</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="maps/jsvectormap.html">
+                                    <span class="sub-item">Quản lý Tỉnh/Thành</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

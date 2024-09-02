@@ -1,0 +1,39 @@
+﻿@model H2TSHOP2024.ModelView.LoginViewModel
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4 class="mb-0">Đăng nhập</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Login" method="post">
+                        <div class="form-group">
+                            <label asp-for="UserName" class="font-weight-bold">Email</label>
+                            <input asp-for="UserName" class="form-control" placeholder="Nhập email của bạn" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="font-weight-bold">Mật khẩu</label>
+                            <input asp-for="Password" class="form-control" type="password" placeholder="Nhập mật khẩu của bạn" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form-check">
+                            <input type="checkbox" class="form-check-input" id="rememberMe">
+                            <label class="form-check-label" for="rememberMe">Nhớ tài khoản</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Đăng nhập</button>
+                    </form>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="#" class="text-muted">Quên mật khẩu?</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

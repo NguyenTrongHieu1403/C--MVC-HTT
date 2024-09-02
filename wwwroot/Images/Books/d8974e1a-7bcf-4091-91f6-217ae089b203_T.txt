@@ -1,0 +1,14 @@
+22-07-2024
+
+
+Chức năng đăng ký
+User Story 1 Chức năng đăng ký Nguyễn Trọng Hiếu Sprint 1 Chưa hoàn thành 8
+Task 1 Thiết kế giao diện đăng ký mới. 2
+Task 2 Lập trình logic xác thực đăng ký ( Kiếm tra đã tồn tại ) 1,5
+Task 3 Xác thực tài khoản ( Số điện thoại hoặc Email ) 1
+Task 4 Lưu trữ vào cơ sở dữ liệu 1
+Task 5 Kiểm tra bảo mật (bao gồm kiểm tra các lỗ hổng bảo mật phổ biến) 1
+Task 6 Debug và sửa lỗi (nếu có) 1,5
+
+
+

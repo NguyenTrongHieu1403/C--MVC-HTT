@@ -1,0 +1,53 @@
+﻿@model H2TSHOP2024.Models.Nxb
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhà xuất bản";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="fw-bold mb-3">Chỉnh sửa nhà xuất bản</h3>
+    <ul class="breadcrumbs mb-3">
+        <li class="nav-home">
+            <a asp-action="Index" asp-area="Admin" asp-controller="Home">
+                <i class="fa-solid fa-house-user"></i>
+            </a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a asp-action="Index" asp-area="Admin" asp-controller="AdminNxbs">Quản lý nhà xuất bản</a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a href="#">Chỉnh sửa nhà xuất bản</a>
+        </li>
+    </ul>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Thông tin nhà xuất bản</h4>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+            <input type="hidden" asp-for="Nxbid" />
+
+            <div class="form-group">
+                <label asp-for="Nxbname" class="control-label"></label>
+                <input asp-for="Nxbname" class="form-control" />
+                <span asp-validation-for="Nxbname" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group text-right">
+                <input type="submit" value="Lưu thay đổi" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>

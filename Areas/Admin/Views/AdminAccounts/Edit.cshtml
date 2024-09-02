@@ -1,0 +1,88 @@
+﻿@model H2TSHOP2024.Models.Account
+
+@{
+    ViewData["Title"] = "Chỉnh sửa tài khoản";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="fw-bold mb-3">Chỉnh sửa tài khoản</h3>
+    <ul class="breadcrumbs mb-3">
+        <li class="nav-home">
+            <a asp-action="Index" asp-area="Admin" asp-controller="Home">
+                <i class="fa-solid fa-house-user"></i>
+            </a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a asp-action="Index" asp-area="Admin" asp-controller="AdminAccounts">Quản lý tài khoản</a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a href="#">Chỉnh sửa tài khoản</a>
+        </li>
+    </ul>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Thông tin tài khoản</h4>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+            <input type="hidden" asp-for="AcId" />
+
+            <div class="form-group">
+                <label asp-for="Username" class="control-label">Tên đăng nhập</label>
+                <input asp-for="Username" class="form-control" placeholder="Nhập tên đăng nhập" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Mật khẩu</label>
+                <input asp-for="Password" type="password" class="form-control" placeholder="Nhập mật khẩu" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Email</label>
+                <input asp-for="Email" type="email" class="form-control" placeholder="Nhập email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label">Số điện thoại</label>
+                <input asp-for="Phone" class="form-control" placeholder="Nhập số điện thoại" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="RoleId" class="control-label">Quyền truy cập</label>
+                <select asp-for="RoleId" class="form-control" asp-items="ViewBag.RoleId"></select>
+                <span asp-validation-for="RoleId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Active" /> @Html.DisplayNameFor(model => model.Active)
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CreateDate" class="control-label">Ngày tạo</label>
+                <input asp-for="CreateDate" type="date" class="form-control" readonly />
+                <span asp-validation-for="CreateDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group text-right">
+                <input type="submit" value="Lưu thay đổi" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>

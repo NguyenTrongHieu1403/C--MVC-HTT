@@ -1,0 +1,52 @@
+﻿@model H2TSHOP2024.Models.Nxb
+
+@{
+    ViewData["Title"] = "Xóa nhà xuất bản";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="fw-bold mb-3">Xóa nhà xuất bản</h3>
+    <ul class="breadcrumbs mb-3">
+        <li class="nav-home">
+            <a asp-action="Index" asp-area="Admin" asp-controller="Home">
+                <i class="fa-solid fa-house-user"></i>
+            </a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a asp-action="Index" asp-area="Admin" asp-controller="AdminNxbs">Quản lý nhà xuất bản</a>
+        </li>
+        <li class="separator">
+            <i class="fa-solid fa-angle-right"></i>
+        </li>
+        <li class="nav-item">
+            <a href="#">Xóa nhà xuất bản</a>
+        </li>
+    </ul>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Xóa thông tin nhà xuất bản</h4>
+    </div>
+    <div class="card-body">
+        <h4>Bạn có chắc chắn muốn xóa nhà xuất bản này?</h4>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Nxbname)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Nxbname)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?');">
+            <input type="hidden" asp-for="Nxbid" />
+            <input type="submit" value="Xóa" class="btn btn-danger" /> |
+            <a asp-action="Index" class="btn btn-secondary">Trở về danh sách</a>
+        </form>
+    </div>
+</div>
